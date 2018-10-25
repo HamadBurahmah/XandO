@@ -66,6 +66,8 @@ int main()
    for(c=0;c<=r;c++){
 cout<< board[r][c];
 cout<<' ';
+}
+}
    //TODO: Print the current board
     //Outline
     //1. Traverse through each row, calling the current row r
